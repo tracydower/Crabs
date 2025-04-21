@@ -1,7 +1,7 @@
-# Crabs
+# Crabs  
 Predicting Crab Age by Body Metrics
-1.	Group Presentation (video) LINK aaaaaaaaaaaaaaaaaaaaaaaaa
-2.	Predicted ages of crabs for the competition set.  in CSV 2 columns: id and Age.
-3.	RShiny Dashboard: https://dnunnally21.shinyapps.io/Crab_Final/
-4.	Rmarkdown that describes your analysis. 
 
+1. Group Presentation (video): [Watch Here](aaaaaaaaaaaaaaaaaaaaaaaaa)  
+2. Predicted ages of crabs for the competition set: `crab_predictions.csv` (CSV with columns: `id`, `Age`)  
+3. RShiny Dashboard: [View Dashboard](https://dnunnally21.shinyapps.io/Crab_Final/)  
+4. RMarkdown Analysis File: [CrabsProjectChloeDrewTracyA_Final.rmd](CrabsProjectChloeDrewTracyA_Final.rmd)
